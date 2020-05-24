@@ -9,7 +9,7 @@ echo "if nullos == nully:"> TROJAN.RANSOM.TOYOR.TROJPIF.py
 echo "print nullos ':,POOOO'"> TROJAN.RANSOM.TOYOR.TROJPIF.py
 echo "else:" > TROJAN.RANSOM.TOYOR.TROJPIF.py
 echo "print nullos,'not found'"> TROJAN.RANSOM.TOYOR.TROJPIF.py
-python TROJAN.RANSOM.TOYOR.TROJPIF.py
+python2 TROJAN.RANSOM.TOYOR.TROJPIF.py
 else
 exit 0
 
